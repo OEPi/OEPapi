@@ -6,7 +6,7 @@ Creating a structure around the massive and endless journey on improving the tra
 
 ## Layers
 
-The API is split into 4 layers, each layer is a container which hosts applications with a similar goal but different perspective, attempting to provide the best solution to achieve the best individual learning experience.
+The API is split into 5 layers, each layer is a container which hosts applications with a similar goal but with a different perspective. The end goal is to provide the best solution to achieve the best individual learning experience.
 
 ### Knowledge Maps
 
@@ -24,3 +24,6 @@ Covering one or more Knowledge Map nodes. Verify the grade of knowledge.
 
 Storing an individual person's covered nodes. Every node has a multi state floating veriable values to make sure knowledge is repeatedly verified. Additional to neutral states, personal states are stored to achieve an overview of which type of classes achieves the most optimal learning experience for this individual.
 
+### Knowledge Benchmarks
+
+Innovative ways to find out which Maps, Classes, Tests and Knowledge State layers have the most optimal leanring experience.
