@@ -6,7 +6,7 @@ Creating a structure around the massive and endless journey on improving the tra
 
 ## Layers
 
-The API is split into 4 layers, each are containers which host applications attempting to provide the best solution to achieve the best individual learning experience.
+The API is split into 4 layers, each layer is a container which hosts applications with a similar goal but different perspective, attempting to provide the best solution to achieve the best individual learning experience.
 
 ### Knowledge Maps
 
