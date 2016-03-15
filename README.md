@@ -22,7 +22,7 @@ Covering one or more Knowledge Map nodes. Verify the grade of knowledge.
 
 ### Knowledge State
 
-Storing an individual person's covered nodes. Every node has a multi state floating veriable values to make sure knowledge is repeatedly verified. Additional to neutral states, personal states are stored to achieve an overview of which type of classes achieves the most optimal learning experience for this individual.
+Storing an individual person's covered nodes. Every node has a multi state floating variable values to make sure knowledge is repeatedly verified. Additional to neutral states, personal states are stored to achieve an overview of which type of classes achieves the most optimal learning experience for this individual.
 
 ### Knowledge Benchmarks
 
