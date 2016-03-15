@@ -26,4 +26,4 @@ Storing an individual person's covered nodes. Every node has a multi state float
 
 ### Knowledge Benchmarks
 
-Innovative ways to find out which Maps, Classes, Tests and Knowledge State layers have the most optimal leanring experience.
+Innovative ways to find out which Maps, Classes, Tests and Knowledge State layers have the most optimal learning experience.
